@@ -10,6 +10,6 @@ Aside from my data analytics experience, I also have some web development experi
 
 In addition to my current studies, I have a bachelor's degree in medical science, and a post graduate certificate in predictive analytics. I have strong interest in high performance computing and very much enjoyed my units in parallelisation and distributed computing, of which, I would love to persue a career in, or at the very least, use and develop tools that integrate these concepts.
 
-[![Dimmerz' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimmerz92&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Dimmerz' GitHub stats](https://github-stats-xi-blond.vercel.app/api?username=dimmerz92&show_icons=true&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmerz92&layout=compact&hide=jupyter%20notebook&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-xi-blond.vercel.app/api/top-langs/?username=dimmerz92&layout=compact&hide=jupyter%20notebook&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
