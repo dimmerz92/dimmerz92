@@ -11,8 +11,8 @@ While I have acquired a little bit of impostor syndrome through this journey, I 
 
 In my spare time, I am usually:
 - Tinkering with my home lab, trying hardest to get around my current CGNAT predicament.
-- Furthering my journey into web development using Go and HTMX as opposed to bloated unnecessary frameworks (React, Svelte, Angular... Pretty much anything involving Javascript!).
-  - For context, I don't hate these frameworks, I enjoy working with them, I just don't think they are necessary for most small to medium sized applications that end up using them.
+- Furthering my journey into web development using Go and HTMX.
+  - For context, I don't hate frameworks, I enjoy working with them.
 - Trying my best to further my knowledge in OpSec in an ever expanding and changing tech environment.
 
 [![Dimmerz' GitHub stats](https://github-stats-xi-blond.vercel.app/api?username=dimmerz92&show_icons=true&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
