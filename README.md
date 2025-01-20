@@ -17,4 +17,4 @@ In my spare time, I am usually:
 
 [![Dimmerz' GitHub stats](https://github-stats-xi-blond.vercel.app/api?username=dimmerz92&show_icons=true&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
 
-[![Top Langs](https://github-stats-xi-blond.vercel.app/api/top-langs/?username=dimmerz92&layout=compact&exclude_repo=github-stats&hide=jupyter%20notebook,html,css&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
+[![Top Langs](https://github-stats-xi-blond.vercel.app/api/top-langs/?username=dimmerz92&layout=compact&exclude_repo=github-stats&hide=jupyter%20notebook,html,css,templ&theme=transparent)](https://github-stats-xi-blond.vercel.app/)
